@@ -454,6 +454,10 @@
       .has-topbar .conf-wrap{padding-top:65px}
     }
   </style>
+
+  <!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
 </head>
 <body class="has-topbar">
 
